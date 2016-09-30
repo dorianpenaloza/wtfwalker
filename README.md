@@ -1,7 +1,7 @@
 # wtfwalker
 
 A repo about Walkers git skills!
-
+Como se dice pants???
 Happy halloween
 
                                             /  _                           
