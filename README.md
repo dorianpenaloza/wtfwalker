@@ -1,7 +1,8 @@
 # wtfwalker
 
 A repo about Walkers git skills!
-Conflict??
+Como se dice pants???
+No Conflict here!
 Happy halloween
 
                                             /  _                           
